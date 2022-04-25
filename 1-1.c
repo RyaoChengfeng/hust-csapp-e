@@ -1,7 +1,4 @@
 #include <stdio.h>
-
-typedef unsigned char *byte_pointer;
-
 void int_representation() {
     int x = -65539;   // 65539 = 65536+3;
     unsigned int y = 0xFFFEFFFD;
